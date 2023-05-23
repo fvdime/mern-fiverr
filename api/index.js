@@ -50,5 +50,3 @@ app.listen(8800, () =>{
   connect();
   console.log("backend server is running")
 })
-
-//ZKB3HK8AWRDzFETo
